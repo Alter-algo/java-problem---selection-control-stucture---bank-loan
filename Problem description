@@ -1,0 +1,30 @@
+account number of the customer
+
+account balance of the customer
+
+salary of the customer
+
+loan type 
+
+expected loan amount
+
+expected no. of EMIs
+
+The following validations should be performed:
+
+The account number should be of 4 digits and its first digit should be 1
+
+The customer should have a minimum balance of $1000 in the account
+
+Display appropriate error messages if the validations fail.
+
+If the validations pass, determine whether the bank would provide the loan or not. 
+
+The bank would provide the loan, only if the loan amount and the number of EMIs expected by the customer is less than or equal to the loan amount and the number of EMIs decided by the bank respectively. The bank decides the eligible loan amount and the number of EMIs based on the below table.
+Display the account number, eligible and requested loan amount and the number of EMIs if the bank provides the loan.
+
+Display an appropriate message if the bank does not provide the loan.
+
+ 
+
+Sample Input and Output
