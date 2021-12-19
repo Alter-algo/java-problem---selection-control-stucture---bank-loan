@@ -1,0 +1,2 @@
+# java-problem---selection-control-stucture---bank-loan
+The Metro Bank provides various types of loans such as car loans, business loans and house loans to its account holders, i.e., customers.  Implement a program to determine the eligible loan amount and the EMI that the bank can provide to its customers based on their salary and the loan type they expect to avail.  The values required for determining the eligible loan amount and the EMI are:
